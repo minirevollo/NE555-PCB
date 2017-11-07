@@ -2,7 +2,7 @@
 
 # NE555 PCB 
 
-<font face="ocra, Times,  serif">Kleines Lötkit für den www.erfindergarden.de.</font>
+<bgcolor="FFFFFA" >
 
 
 Kleines Lötkit für den www.erfindergarden.de.
