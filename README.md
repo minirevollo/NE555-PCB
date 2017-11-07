@@ -2,7 +2,7 @@
 
 # NE555 PCB 
 
-<body bgcolor="FFFFFA">
+<body bgcolor="#HAAAAA">
 
 
 Kleines Lötkit für den www.erfindergarden.de.
