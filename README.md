@@ -5,7 +5,7 @@
 Kleines Lötkit für den www.erfindergarden.de.
 
 Die benötigten Bauteile bekommt man alle im erfindergarden. 
-<img high = "300" src = "IMG_20170815_202621.jpg"/>
+<img high = "100" src = "IMG_20170815_202621.jpg"/>
 ![](https://github.com/minirevollo/NE555-PCB/blob/master/IMG_20170815_202621.jpg)
 Die Platine kann ebenfalls im erfindergarden mit der othermill gefräst werden.
 ![](https://github.com/minirevollo/NE555-PCB/blob/master/NE555_astabil_Leiterplatte.png)
